@@ -15,7 +15,6 @@ int main(){
     
     freopen( "money.in" , "r" , stdin );
     freopen( "money.out" , "w" , stdout );
-    freopen( "money.out" , "w" , stdout );
 
     int n,m;
     scanf("%d %d",&m,&n);
